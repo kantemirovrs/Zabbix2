@@ -5,5 +5,7 @@
 ![Zadanie_1](https://github.com/kantemirovrs/Zabbix2/blob/main/screen/zad2.png)
 # Скриншот «Задание 3»
 ![Zadanie_1](https://github.com/kantemirovrs/Zabbix2/blob/main/screen/zad3.png)
+# Скриншот «Задание 4»
+![Zadanie_1](https://github.com/kantemirovrs/Zabbix2/blob/main/screen/zad4.png)
 
 
